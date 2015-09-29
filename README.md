@@ -1,2 +1,0 @@
-# odoo-MLMC
-ODOO
